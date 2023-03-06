@@ -3,7 +3,11 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=salsabeel-alzaqa&label=Profile%20views&color=0e75b6&style=flat" alt="salsabeel-alzaqa" /> </p>
 
+<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='200'/>
+
 - 🌱 I’m currently learning **React.**
+
+- 💬 Ask me about **HTML5,CSS3 and JavaScript**
 
 - 📫 How to reach me **salsabeel.alzaqa@gmail.com**
 
@@ -26,6 +30,10 @@
   <img align="center" src="https://letstrys-bloedboemmel.vercel.app/api/top-langs/?username=salsabeel-alzaqa&theme=radical"  height="200"/>
 </a>
 </p>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=salsabeel-alzaqa&no-bg=true&no-frame=true&theme=algolia" />
+</p>
+
 
 ------------------
 
