@@ -5,8 +5,6 @@
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='200'/>
 
-- 🌱 I’m currently learning **React.**
-
 - 💬 Ask me about **HTML5,CSS3 and JavaScript**
 
 - 📫 How to reach me **salsabeel.alzaqa@gmail.com**
